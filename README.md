@@ -1,6 +1,6 @@
 # ui/ux
 
-Mocups for "Best Coffee Machine" with video presentation. Made in Adobe XD.
+Mocups for "Best Coffee Machine" project created in Adobe XD.
 
 # Preview
 
